@@ -8293,7 +8293,7 @@ h1, h2, h3, h4, h5,
       color: #ffbd39;
       outline: none !important; }
   .ftco-navbar-light.scrolled {
-    position: fixed;
+    position: absolute; 
     right: 0;
     left: 0;
     top: 0;
@@ -8343,7 +8343,7 @@ h1, h2, h3, h4, h5,
       cursor: pointer;
       text-transform: uppercase;
       font-size: 16px;
-      letter-spacing: .1em; }
+       }
     .ftco-navbar-light.scrolled .nav-link {
       color: #000000 !important; }
       .ftco-navbar-light.scrolled .nav-link.active {
